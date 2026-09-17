@@ -1,292 +1,40 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Neha</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h1>
-  Hi 👋, I'm <font color="#C77DFF">Neha</font>
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehal7910&label=Profile%20views&color=0e75b6&style=flat" alt="nehal7910" /> </p>
 
-<h3>
-  <font color="#FF4FD8">Frontend Developer</font> |
-  <font color="#8B5CF6">AI & ML Enthusiast</font>
-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehal7910" alt="nehal7910" /></a> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FF4FD8&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;AI+%26+ML+Student+%F0%9F%A4%96;Web+Development+Enthusiast+%F0%9F%9A%80;Learning+Node.js+%26+Machine+Learning;Turning+Ideas+Into+Projects+%E2%9C%A8"/>
+- 🔭 I’m currently working on **AI based mental health support system**
 
-<br><br>
+- 🌱 I’m currently learning **Content creation**
 
-<a href="https://github.com/Nehal7910">
-<img src="https://img.shields.io/badge/GitHub-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- 👯 I’m looking to collaborate on **web development and Ai/ml projects**
 
-<a href="https://linkedin.com/in/neha-a5662a384">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 🤝 I’m looking for help with **Node.js and machine learning**
 
-<a href="https://drive.google.com/file/d/181qZ7IV_xsSjePwCAifHwjwBIobSqWU2/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/Resume-View-FF4FD8?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
+- 👨‍💻 All of my projects are available at [Nehal7910](Nehal7910)
 
-<br><br>
+- 📝 I regularly write articles on [Nss and soical awareness](Nss and soical awareness)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=120&section=header"/>
+- 💬 Ask me about **Frontend developer**
 
-</div>
+- 📫 How to reach me **nehamoyal667@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/181qZ7IV_xsSjePwCAifHwjwBIobSqWU2/view?usp=drivesdk](https://drive.google.com/file/d/181qZ7IV_xsSjePwCAifHwjwBIobSqWU2/view?usp=drivesdk)
 
-<div align="center">
+- ⚡ Fun fact **I love learning new technologies**
 
-## 💗 About Me
-
-</div>
-
-<p align="center">
-
-I'm <b>Neha</b>, a B.Tech student specializing in
-<b>Artificial Intelligence & Machine Learning</b>.
-
-<br>
-
-I'm passionate about
-<b>Frontend Development</b>, <b>AI/ML</b> and <b>UI/UX Design</b>.
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/neha-a5662a384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/neha-a5662a384" height="30" width="40" /></a>
 </p>
 
-<table align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<tr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehal7910&show_icons=true&locale=en&layout=compact" alt="nehal7910" /></p>
 
-<td>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehal7910&show_icons=true&locale=en" alt="nehal7910" /></p>
 
-🔭 <b>Currently working on</b>
-
-</td>
-
-<td>
-
-AI Based Mental Health Support System
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🌱 <b>Currently learning</b>
-
-</td>
-
-<td>
-
-Node.js & Machine Learning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-👯 <b>Looking to collaborate on</b>
-
-</td>
-
-<td>
-
-Web Development & AI/ML Projects
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-💬 <b>Ask me about</b>
-
-</td>
-
-<td>
-
-Frontend Development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-⚡ <b>Fun fact</b>
-
-</td>
-
-<td>
-
-I love learning new technologies
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 🧠 Currently Working On
-
-### 💗 AI Based Mental Health Support System
-
-<p>
-AI + NLP based project focused on creating a supportive digital platform.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+%F0%9F%A4%96;Natural+Language+Processing+%F0%9F%A7%A0;Supportive+Digital+Platform+%F0%9F%92%97"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎀 Languages & Tools
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,figma,vscode"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table align="center">
-
-<tr>
-
-<td width="50%">
-
-### 🧠 AI Mental Health Support System
-
-AI + NLP based supportive digital platform.
-
-</td>
-
-<td width="50%">
-
-### 🚗 Mecanum Omni Wheel Car
-
-Team project designed for <b>360° movement</b>.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ☀️ Auto Sun Detector System
-
-Sensor-based automatic sun detection project.
-
-</td>
-
-<td width="50%">
-
-### 🌌 Solar System Model
-
-Educational solar system project.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🍔 Campus Food Ordering Website
-
-Frontend and UI/UX based website.
-
-</td>
-
-<td width="50%">
-
-### 💻 Web Development Projects
-
-HTML, CSS and JavaScript projects.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 💼 Experience
-
-### 👩‍💻 Technical Intern — BharatSkillz
-
-Technical and development-oriented internship experience.
-
-</div>
-
----
-
-<div align="center">
-
-
-
----
-
-<div align="center">
-
-## 🏆 Achievement
-
-🏅 <b>District Level Dance Competition Winner</b>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<br>
-
-<a href="https://github.com/Nehal7910">
-<img src="https://img.shields.io/badge/GitHub-Explore-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/neha-a5662a384">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://drive.google.com/file/d/181qZ7IV_xsSjePwCAifHwjwBIobSqWU2/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/Resume-View-FF4FD8?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%92%97;Keep+Building+%F0%9F%9A%80;Keep+Growing+%E2%9C%A8"/>
-
-<br><br>
-
-<h3>💗 Thanks for visiting my profile! 🚀</h3>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=120&section=footer"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nehal7910&" alt="nehal7910" /></p>
